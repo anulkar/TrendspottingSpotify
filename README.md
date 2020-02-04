@@ -12,10 +12,12 @@ The Pandas of Jupyter
 
 ## Project Goals/Research Questions to Answer
 Explore Spotify's Playlists across different Genres of music and understand various relationships and trends between Artists, Songs & their Audio Features:
-1. How do various Audio Features of a Song such as it's Danceability, Energy, Liveness, etc., influence the popularity of Songs?
-2. How are popular songs trending in terms of their valence, i.e. songs that sound more positive (e.g. happy, cheerful, euphoric), vs songs that sound more negative (e.g. sad, depressed, angry)? Is there any correlation between the speechiness and the valence of a song?
+1. Which Genres are more popular than others? Statistically, are there significant differences in popularity between Genres?
+2. How do various Audio Features of a Song such as it's Danceability, Energy, Liveness, etc., influence the popularity of Songs?
+3. How are popular songs trending in terms of their valence, i.e. songs that sound more positive (e.g. happy, cheerful, euphoric), vs songs that sound more negative (e.g. sad, depressed, angry)? Is there any correlation between the speechiness and the valence of a song?
 3. Does the duration of a song affect it's position within a playlist?
 4. Does the position of a song in a playlist impact it's popularity?
+5. Are singles more popular than albums or compilations?
 
 ## Dataset Sources
 * Artists, Playlists, Tracks and Music Metadata sourced using the [Spotify Web API](https://developer.spotify.com/documentation/).
