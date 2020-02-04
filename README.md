@@ -1,9 +1,6 @@
 # Data Science Project: Trendspotting on Spotify
 
-## Team
-The Pandas of Jupyter
-
-## **Team Members**
+## The Pandas of Jupyter
 * Atul | anulkar| Nulkar
 * Justin | justinjapan | McSpadden
 * Jasmine | jasmineorr | Orr
