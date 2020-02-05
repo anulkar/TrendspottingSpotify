@@ -30,4 +30,4 @@ Explore Spotify's Playlists across different Genres of music and understand vari
 * [spotify_analysis.ipynb](https://github.com/anulkar/DataScience-Project1/blob/master/spotify_analysis.ipynb) - contains code to perform more in-depth analysis of the Spotify data and to seek answers to our research questions.
 
 ## Presentation (Results Report)
-A detailed analysis of our findings can be found in [this presentation](https://github.com/anulkar/DataScience-Project1/blob/master/Powerpoint/Trendspotting%20on%20Spotify%20final%20V3.pptx).
+A detailed analysis of our findings can be found in [this presentation](https://github.com/anulkar/DataScience-Project1/blob/master/Powerpoint/Trendspotting%20on%20Spotify%20final%20V4.pptx).
